@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Playwrite+DE+Grund:wght@100..400&display=swap");
+
+*{
+    margin:0;
+    padding:10px;
+    box-sizing: border-box;
+   background-color: aquamarine;
+    font-family: "Playwrite DE Grund", cursive;
+    outline: none;
+}
